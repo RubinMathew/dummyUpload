@@ -3,7 +3,8 @@ package com.lt.doa;import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
-import java.sql.SQLException;public class DemoJDBC {​​ // Step 1
+import java.sql.SQLException;
+public class DemoJDBC {​​ // Step 1
 // JDBC driver name and database URL
 static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
 static final String DB_URL = "jdbc:mysql://localhost/test"; // Database credentials
