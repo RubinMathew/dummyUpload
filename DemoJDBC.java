@@ -1,4 +1,4 @@
-[5:06 PM] Dhara Koya
+
 package com.lt.doa;import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
